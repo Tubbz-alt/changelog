@@ -1,6 +1,10 @@
 ## [2014.2] 2014-12-31
 
 
+## [5.0.1] 2019-07-30
+
+*  rebuild
+
 ## [3.14.7] 2019-07-16
 
 *  org.freedesktop.Notifications 没有被占用则启动 dde-osd
